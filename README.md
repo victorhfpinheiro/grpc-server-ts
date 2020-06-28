@@ -1,1 +1,1 @@
-# grpc-server-ts
+# gRPC Server Typescript

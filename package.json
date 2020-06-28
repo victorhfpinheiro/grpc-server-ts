@@ -1,0 +1,22 @@
+{
+  "name": "grpc-server-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/victorhfpinheiro/grpc-server-ts.git",
+  "author": "Victor Hugo Feliciano Pinheiro",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "google-protobuf": "^3.12.2",
+    "grpc": "^1.24.3"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/google-protobuf": "^3.7.2",
+    "@types/node": "^14.0.14",
+    "grpc-tools": "^1.9.0",
+    "grpc_tools_node_protoc_ts": "^4.1.0",
+    "protoc": "^1.0.4",
+    "typescript": "^3.9.5"
+  }
+}
